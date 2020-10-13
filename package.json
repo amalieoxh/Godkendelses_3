@@ -1,0 +1,27 @@
+{
+  "name": "Godkendelses_3",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amalieoxh/Godkendelses_3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amalieoxh/Godkendelses_3/issues"
+  },
+  "homepage": "https://github.com/amalieoxh/Godkendelses_3#readme",
+  "description": ""
+}
